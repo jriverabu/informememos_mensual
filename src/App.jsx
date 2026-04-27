@@ -56,7 +56,7 @@ const App = () => {
           <div>
             <h1 className="text-3xl font-black tracking-tight text-slate-800">Memos Pizza</h1>
             <div className="flex items-center gap-2">
-               <span className="text-orange-600 font-bold uppercase text-[10px] tracking-widest bg-orange-50 px-2 py-0.5 rounded-md">Abril 2024</span>
+               <span className="text-orange-600 font-bold uppercase text-[10px] tracking-widest bg-orange-50 px-2 py-0.5 rounded-md">Abril 2026</span>
                <span className="text-slate-400 text-[10px] font-medium uppercase tracking-widest">Reporte de Performance</span>
             </div>
           </div>
@@ -196,7 +196,7 @@ const App = () => {
 
       <footer className="max-w-7xl mx-auto pt-8 border-t border-slate-100 text-center">
         <p className="text-slate-400 text-xs font-bold uppercase tracking-widest">
-          Memos Pizza © 2024 • Intelligence Dashboard
+          Memos Pizza © 2026 • Intelligence Dashboard
         </p>
       </footer>
     </div>
